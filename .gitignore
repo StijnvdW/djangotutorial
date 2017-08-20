@@ -1,9 +1,5 @@
 # virual environment
 env/*
 
-# Mysite project chache
-mysite\__pychache__\*
-
-# Polls application chache
-polls\__pychache__\*
-polls\migrations\__pychache__\*
+# Python cache files
+*.pyc
